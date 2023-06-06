@@ -1,7 +1,7 @@
 [project]
 name = "onnxscriptgpt"
 version = "0.1.0"
-description = "Add a short description here"
+description = "Implementation of gpt2 in onnxscript "
 authors = [
     { name = "Ryu1845", email = "ryu@tpgjbo.xyz" }
 ]
