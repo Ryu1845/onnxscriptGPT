@@ -1,0 +1,1 @@
+- [ ] Test [onnx2py](https://github.com/microsoft/onnxconverter-common/blob/master/onnxconverter_common/onnx2py.py) with <https://github.com/onnx/models/blob/main/text/machine_comprehension/gpt-2/README.md> (try to use the [transformer optimizer](https://onnxruntime.ai/docs/performance/transformers-optimization.html#3-run-the-model-optimizer-tool) if necessary
