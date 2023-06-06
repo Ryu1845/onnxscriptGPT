@@ -5,7 +5,12 @@ description = "Add a short description here"
 authors = [
     { name = "Ryu1845", email = "ryu@tpgjbo.xyz" }
 ]
-dependencies = []
+dependencies = [
+    "onnx~=1.14.0",
+    "onnxruntime~=1.15.0",
+    "pytest~=7.3.1",
+    "onnxscript @ git+https://github.com/microsoft/onnxscript/",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
